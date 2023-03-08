@@ -12,5 +12,3 @@
 
         echo "Erreur : " . $e-> getMessage();
     }
-
-?>
